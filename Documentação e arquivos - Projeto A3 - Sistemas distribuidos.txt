@@ -1,0 +1,21 @@
+Projeto A3 - Sistemas distribuidos e mobile / Usabilidade, desenvolvimento web, mobile e jogos.
+
+Integrantes do Grupo:
+Arley Novais do Nascimento: 1282117525
+Álvaro de Moura Maia: 12822131248
+Mateus Sousa Schmidt:1282124086
+Matheus Menezes da Silva Ramos:1282118603
+ 
+Link para o projeto, com todos os arquivos da Unity, Build pronta e EXE.
+(Muito grande para o GITHUB, disponibilizamos via drive)
+https://drive.google.com/file/d/1G-3sgZIh8KKdoqRugVsbxo-kT9mI4v1i/view?usp=sharing
+
+Assets Utilizados:
+Realistic Car Controller
+https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296
+Prometeo
+https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-209444
+
+Demais assets de confecção própria do grupo.
+
+
